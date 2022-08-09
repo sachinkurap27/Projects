@@ -23,8 +23,7 @@ EECS 280 Post Classifier:
 - Implemented program that uses NLP and ML techniques to automatically identify subjects of posts in forums 
 - Classifier used is a simplified version of a Multivariate Bernoulli Naive Bayes Classifier 
 
-EECS 280 Office Hours Queue 
-(Web Server):
+EECS 280 Office Hours Queue:
 
 - Worked in a team to build a small web server for an office hours queue, utilizing REST APIs to create a web application accessible through local browser
 
